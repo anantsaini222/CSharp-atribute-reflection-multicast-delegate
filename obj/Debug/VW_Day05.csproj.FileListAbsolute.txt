@@ -1,0 +1,7 @@
+C:\Users\anant\Desktop\.NET\VW_Day05\VW_Day05\obj\Debug\VW_Day05.csprojAssemblyReference.cache
+C:\Users\anant\Desktop\.NET\VW_Day05\VW_Day05\obj\Debug\VW_Day05.csproj.CoreCompileInputs.cache
+C:\Users\anant\Desktop\.NET\VW_Day05\VW_Day05\bin\Debug\VW_Day05.exe.config
+C:\Users\anant\Desktop\.NET\VW_Day05\VW_Day05\bin\Debug\VW_Day05.exe
+C:\Users\anant\Desktop\.NET\VW_Day05\VW_Day05\bin\Debug\VW_Day05.pdb
+C:\Users\anant\Desktop\.NET\VW_Day05\VW_Day05\obj\Debug\VW_Day05.exe
+C:\Users\anant\Desktop\.NET\VW_Day05\VW_Day05\obj\Debug\VW_Day05.pdb
